@@ -1,7 +1,7 @@
 public class TestRectangle{
   public static void main(String args[]){
     Rectangle[] rects = new Rectangle[4];
-    Rectangle enclosing;
+    Rectangle enclosing;      //
 
     // Initialize the rectangles as arbitrary sizes and at arbitrary positions:
     for(int i = 0; i < rects.length; ++i){
