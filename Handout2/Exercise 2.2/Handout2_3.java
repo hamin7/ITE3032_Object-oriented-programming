@@ -38,7 +38,7 @@ class Address{
   public String city;
   public int zipCode;
   public void setStreet(String street){
-    tgus.street = street;
+    this.street = street;
   }
   public String getStreet(){
     return this.street;
